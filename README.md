@@ -1,6 +1,6 @@
 # TagTrack SW
 
-<this section will describe the tag track software and any installation instructions>
+this section will describe the tag track software and any installation instructions
 
 # beaglebone_pru_adc
 
