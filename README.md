@@ -1,5 +1,10 @@
+# TagTrack SW
+
+<this section will describe the tag track software and any installation instructions>
+
 # beaglebone_pru_adc
 
+This section describes and provides instruction on how to enable the Beaglebone Black "Programmable Real-Time Units" for fast analog capture. 
 Fast analog sensor capture for [Beaglebone Black](http://beaglebone.org).
 
 ## Introduction
