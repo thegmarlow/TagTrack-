@@ -1,6 +1,6 @@
 # TagTrack SW
 
-this section will describe the tag track software and any installation instructions
+This section will describe the tag track software and any installation instructions. Part of the operating code requires configuration of the Beaglebone Black according to the instructions provided in the beaglebone_pru_adc section of this ReadMe file.
 
 # beaglebone_pru_adc
 
